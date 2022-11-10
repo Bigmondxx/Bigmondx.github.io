@@ -11,6 +11,14 @@ $('#message').text("Playing track");
 $('#player').trigger("play");
 
 });
+  
+  //The PLAY button
+
+$('#stop').click(function () {
+  $('#player').trigger("pause");
+$('#message').text("Track stopped");
+$('#player').prop("currentTime",0);
+});
 
 //The PAUSE button
 
