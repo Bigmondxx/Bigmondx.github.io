@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<title> Resume</title>
+<head>
+  <link rel="stylesheet" href="resumeStyle.css">
+  </head>
+<body style= "background color:grey">
+  <div id="header"> 
+  <h1> <center> Shammond Price</center></h1>
+  <h3> <center> Phone: (803)-667-7366: bostonc13sp@gmail.com </center></h3>
+  
+    <div style = "position:absolute; left:650px; top:20px">
+    <img src= "shammond pic.JPG" width= 70 length= 50>
+    </div>
+  </div>
+<div id= "rnav"> right nav
+  <p> table of contents</p> 
+  <ol>
+    <li> Pages </li>
+    <li> my personal information and contacts</li>
+    <li> my picutres</li>
+    <li> education information</li>
+    <li> my social media etc </li> 
+     
+  </div>
+
+<div id="main">
+<h2> Objective </h2>
+<p> To graduate from Benedict college and earn a bachelor's degree in Computer Science</p>
+<h2> Education </h2>
+<p><b>Dutch Fork High School</b></p>
+<ol>
+  <li> computer studies</li>
+     <ol>
+      <li> programming studies<li>
+      <li> typing fast in timing in advance<li>
+    </ol>
+  <li> Engineering classes </li>
+       <ol>
+          <li> electcal Engineeringn</li>
+          <li> foundation of engineering</li>
+       </ol>
+  <li> GPA: 3.44</li>
+
+</ol>
+<p><b> Benedict College</b></p>
+<table style= "width:50%">
+  
+  <table border= "1|0">
+  <caption> College courses</caption>
+    <tr>
+         <th> First Semester </th>
+         <th> Second Semester </th>
+         <th> Third Semester </th>
+    </tr>
+    <tr>
+       <td> Analysis and Argumentation </td>
+       <td> Information of Lit and Research</td>
+       <td> Web Development</td>
+    </tr>
+    <tr>
+      <td> College Algebra </td>
+      <td> Precalcus</td>
+      <td> Algorithm Design I </td>
+    </tr>
+    <tr>
+      <td> College Experience </td>
+      <td> College Experience II </td>
+      <td> Calculus I </td>
+    </tr>
+    <tr>
+        <td> Art apprecation </td>
+        <td> world civilzation history</td>
+        <td> prommaning C++ </td>
+    </tr>
+    <tr>
+      <td> African American history </td>
+      <td> Digital logic </td>
+    </tr>
+    <tr>
+        <td> found app development</td>
+        <td> intro computer and programming</td>
+        <td> Assembly language </td>
+      </tr>
+ </table>
+ <ul>
+  <li> GPA: 3.45</li>
+  <li> Honors program member and Deans list</li>
+   <li> That National Society of leadership and Success 2022-2023</li>
+</ul>
+</div>
+
+  <div id="lnav"> left nav
+  <p> My Projects </p>
+  <a href="https://codeboard.io/projects/342750"> Codeboard project</a>
+  <a href="https://codeboard.io/projects/344100"> Codeboard project </a>
+  <a href="https://docs.google.com/document/d/1oykinkSRJfqHm-iCRd8TVdPyf6ufa7Gg/edit?usp=sharing&ouid=114011871385405255083&rtpof=true&sd=true"> my peronsal resume</a>
+  </div>
+  <div id="footer"
+<a href= "http://www.linkedin.com/in/shammond-price">Picture of me </a>
+<a href="https://www.instagram.com/p/B-Dvz8xJIxX/"> My instagram page</a>
+</div>
+</body>
+</html>
